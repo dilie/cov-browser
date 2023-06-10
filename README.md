@@ -70,6 +70,7 @@ hapnet.pl
 ```
 
 # Cite
-https://www.biorxiv.org/content/biorxiv/early/2020/04/14/2020.04.10.036343.full.pdf
+Akther, Bezrucenkovas, Sulkow, Panlasigui, Li, Qiu, and Di,"CoV Genome Tracker: tracing genomic footprints of Covid-19 pandemic". BioRXiv
+*https://www.biorxiv.org/content/biorxiv/early/2020/04/14/2020.04.10.036343.full.pdf
 
 
