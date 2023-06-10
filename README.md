@@ -16,8 +16,6 @@ This is the repository for the CoV-SARS-2 Genome Tracker <http://cov.genometrack
 6. Create a bootstrap alignments and infer networks using hapnet-boot.pl
 7. Get consensus network using net-consense.pl
 
-
-
 ### Workflow
 
 ![](./img/mermaid-diagram-20200413133635.svg)
@@ -70,5 +68,8 @@ This program calculates the minimum spanning tree of a set haplotype.
 ```
 hapnet.pl
 ```
+
+# Cite
+https://www.biorxiv.org/content/biorxiv/early/2020/04/14/2020.04.10.036343.full.pdf
 
 
